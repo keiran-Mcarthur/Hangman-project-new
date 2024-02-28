@@ -25,8 +25,6 @@ class Hangman:
              print("You have," ,self.num_lives, "lives left.")
         
         
-        
-        
     def ask_for_input(self):                        
         list_of_guesses = list()               
                           
