@@ -11,3 +11,6 @@ This is a pushed python file from the local repo containing the next part of the
 
 ### Milestone_4.py
 This is a pushed python file from the local repo that contains part_3 of the Hangman game which consists of detailed versions  part_1 and 2 of the hangman game in a class which that the guess in in the word and displays the length of the word with correct guess index to the right spaces. It also takes a live if you give a incorrect guess.
+
+### Milestone_5.py
+This a pushed python file which contains a final working model of the classice game of hangman.
