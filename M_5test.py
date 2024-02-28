@@ -14,17 +14,18 @@ class Hangman:
         print(guess)
         if guess in self.word:
          print("Good guess!" ,guess, ",is in the word.")
-        for index, letter in enumerate(self.word):
+         for index, letter in enumerate(self.word):
             if letter == guess:
                 self.word_guessed[index] = letter
                 print(' '.join(self.word_guessed))
                 break
+            self.num_letters -= 1
         else:
              self.num_lives = self.num_lives - 1
              print("Sorry," ,guess, "is not in the word.")
              print("You have," ,self.num_lives, "lives left.")
         
-        self.num_letters = len(self.word_guessed) - 1
+        
         
         
     def ask_for_input(self):                        
@@ -49,10 +50,9 @@ class Hangman:
                     break
                 elif self.num_letters > 0:
                    hangman.ask_for_input()
-                else:
-                    self.num_lives > 0 and self.num_letters == 0
+                elif self.num_lives > 0 and self.num_letters == 0:
                     print('Congratulations. You won the game!')
-                     
+                    break 
 hangman = Hangman(["apple", "orange", "pear", "blackberries", "strawberries"])
 hangman.play_game(["apple", "orange", "pear", "blackberries", "strawberries"])  
 
