@@ -2,6 +2,7 @@
 Hangman Project 
 ## Description 
 This project is a digital vision of the classic game called Hangman. The aim of this project is to create a fully working hangman game. 
+
 Useage instruction to start the game simply run code to play.  
 
 ### Milestone_2.py 
