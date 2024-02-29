@@ -1,7 +1,8 @@
 # Hangman-Project-
 Hangman Project 
 ## Description 
-This project is a digital vision of the classic game called Hangman. The aim of this project is to create a fully working hangman game. Useage instruction to start the game simply run code to play.  
+This project is a digital vision of the classic game called Hangman. The aim of this project is to create a fully working hangman game. 
+Useage instruction to start the game simply run code to play.  
 
 ### Milestone_2.py 
 This is a pushed pyhton file from the local repo that contains part 1 of the Hangman game which consists of list of possible words with a random choice selection. Followed by a user input(single character) for their guess and finally an if statement  that checks that their guess is a vaild guess. 
