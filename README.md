@@ -18,19 +18,19 @@ This a pushed python file which contains a final working model of the classic ga
 ### Milestone_5_Updated.py 
 This a pushed python file which contains a checked and an updated final working model of the classic game of hangman. The structure of the model structured in using object oriented programming(OOP). The model begins with the Hangman as a class followed by a function which in an instance of the class with the following attributes: self.word, self.word_guessed, self.num_letters, self.num_lives, self.word_list, self.list_of_guess (picture 1). Within the class there are two function which are check_guess and ask_for_input which detial modified verison of Milestone_4.py. After these two function outside of the class there is another function called play_game which is used to examine if you win or lose(picture 2)
 
-#Appendics
+# Appendics
 
-###Picture 1 - Class Hangman
+### Picture 1 - Class Hangman
 This picture shows the Hangman class 
 ![hangman class](https://github.com/keiran-Mcarthur/Hangman-project-new/assets/159048029/fea64d78-4ce5-483d-9268-37996883d8c4)
 
-###Picture 2 - Play_game function 
+### Picture 2 - Play_game function 
 This image below shows the Play_game function and how it is designed to check that you win or lose  
 ![hangman play_game function](https://github.com/keiran-Mcarthur/Hangman-project-new/assets/159048029/ab4f6101-07b6-484c-809b-8afacdfbc821)
 
 
-###Picture 3 - Hangman output 
-The image below shows the ouptput when you run the code of the Hnagman game 
+### Picture 3 - Hangman output 
+The images below shows the ouptput when you run the code of the Hnagman game 
 ![hangman output](https://github.com/keiran-Mcarthur/Hangman-project-new/assets/159048029/06f27142-0ebe-491a-b664-55702772941c)
 ![hangman won](https://github.com/keiran-Mcarthur/Hangman-project-new/assets/159048029/1a2789a2-f0cc-4673-bbfe-b7d39fe4012a)
 
