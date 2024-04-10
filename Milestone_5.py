@@ -36,7 +36,7 @@ list_of_guesses (str): A list of guesses that a player has made throughout the g
         guess = guess_lowercase                  
         print(guess)
         if guess in self.word:
-         print("Good guess!" ,guess, ",is in the word.")
+         print("Good guess!" ,guess, ",is in the word")
          for index, letter in enumerate(self.word):
             if letter == guess:
                 self.word_guessed[index] = letter
