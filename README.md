@@ -19,6 +19,7 @@ This a pushed python file which contains a final working model of the classic ga
 This a pushed python file which contains a checked and an updated final working model of the classic game of hangman. The structure of the model structured in using object oriented programming(OOP). The model begins with the Hangman as a class followed by a function which in an instance of the class with the following attributes: self.word, self.word_guessed, self.num_letters, self.num_lives, self.word_list, self.list_of_guess (picture 1). Within the class there are two function which are check_guess and ask_for_input which detial modified verison of Milestone_4.py. After these two function outside of the class there is another function called play_game which is used to examine if you win or lose(picture 2)
 
 #Appendics
+
 ###Picture 1 - Class Hangman
 This picture shows the Hangman class 
 
