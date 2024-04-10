@@ -95,3 +95,6 @@ help(Hangman)
 print(hangman.list_of_guesses)
 print(hangman.word_guessed)
 print(hangman.num_letters)
+
+'if__name__="__main__":'
+play_game(["apple", "orange", "pear", "blackberries", "strawberries"])
