@@ -32,4 +32,6 @@ This image below shows the Play_game function and how it is designed to check th
 ###Picture 3 - Hangman output 
 The image below shows the ouptput when you run the code of the Hnagman game 
 ![hangman output](https://github.com/keiran-Mcarthur/Hangman-project-new/assets/159048029/06f27142-0ebe-491a-b664-55702772941c)
+![hangman won](https://github.com/keiran-Mcarthur/Hangman-project-new/assets/159048029/1a2789a2-f0cc-4673-bbfe-b7d39fe4012a)
+
 
