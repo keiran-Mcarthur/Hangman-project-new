@@ -39,7 +39,7 @@ class Hangman:
              break         
                                                                                 # task to solve problem 
 hangman = Hangman(["apple", "orange", "pear", "blackberries", "strawberries"]) # created an instance of the class
-hangman.check_guess('t')                                                       # used the instanced of the class to call the method
+hangman.check_guess('p')                                                       # used the instanced of the class to call the method
                                                                                # doing that allows us to use self. contructor in methods as we can use self as a parameter
 hangman.ask_for_input()                                                        # use tab key to indent if statement inside while loop and put break at end of else statement 
 
