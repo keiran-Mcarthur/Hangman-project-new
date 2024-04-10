@@ -22,9 +22,12 @@ This a pushed python file which contains a checked and an updated final working 
 
 ###Picture 1 - Class Hangman
 This picture shows the Hangman class 
+![hangman class](https://github.com/keiran-Mcarthur/Hangman-project-new/assets/159048029/fea64d78-4ce5-483d-9268-37996883d8c4)
 
 ###Picture 2 - Play_game function 
 This image below shows the Play_game function and how it is designed to check that you win or lose  
+![hangman play_game function](https://github.com/keiran-Mcarthur/Hangman-project-new/assets/159048029/ab4f6101-07b6-484c-809b-8afacdfbc821)
+
 
 ###Picture 3 - Hangman output 
 The image below shows the ouptput when you run the code of the Hnagman game 
