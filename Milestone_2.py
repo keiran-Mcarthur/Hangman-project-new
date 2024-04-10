@@ -12,5 +12,5 @@ print(guess)
 if len(guess) == 1:
     print("Good Guess")
 else:
-    print("Oops! That is not a valid input.")
+    print("Oops! That is not a valid input")
 
